@@ -1,5 +1,8 @@
+<h2 align="left">Hi 👋! My name is Faris</h2>
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+###
+
+<h3 align="left">Maths and Computer Science Undergrad at Imperial</h3>
 
 ###
 
