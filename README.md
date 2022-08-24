@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Maths and Computer Science Undergrad at Imperial</h3>
+<h3 align="left">1st year Maths and Computer Science undergrad at Imperial</h3>
 
 ###
 
