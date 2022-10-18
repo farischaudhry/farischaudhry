@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Maths and computer science undergrad at Imperial<br>📚 Interested in ML and data science<br>🌐 <a href="farischaudhry.github.io">Website (WIP)</a> </p>
+<p align="left">✨ Maths and computer science undergrad at Imperial<br>📚 Interested in ML and data science<br>🌐 <a href="https://farischaudhry.github.io">Website (WIP)</a> </p>
 
 ###
 
