@@ -24,12 +24,12 @@
 
 <div align="center">
   <a href="https://uk.linkedin.com/in/faris-chaudhry-147336214?trk=people-guest_people_search-card" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/19837690/farischaudhry" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
+    <img src="hhttps://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://github.com/farischaudhry/farischaudhry/raw/a57b9b274c38f692423d296324fe3af0c392ced2/cv_faris_chaudhry.pdf" target="_blank">
     <img src="https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white" height="35" alt="resume"  />
+  </a>
+  <a href="https://stackoverflow.com/users/19837690/farischaudhry" target="_blank">
+    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" height="35" alt="stackoverflow logo"  />
   </a>
 </div>
