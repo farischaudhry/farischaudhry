@@ -4,7 +4,7 @@
 
 🎓 Maths and computer science undergrad at Imperial College London <br>
 📚 Interested in ML and medicine <br>
-🌐 [Website (WIP)]("https://farischaudhry.github.io") 
+🌐 <a href="https://farischaudhry.github.io">Website (WIP)</a>
 
 ## ✨ Preferred Languages
 
