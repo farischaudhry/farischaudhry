@@ -2,9 +2,9 @@
 
 ## 🚀 About Me
 
-🎓 Maths and computer science undergrad at Imperial College London.
-📚 Interested in ML and medicine.
-🌐 [Website (WIP)](<"https://farischaudhry.github.io">).
+🎓 Maths and computer science undergrad at Imperial College London. <br>
+📚 Interested in ML and medicine. <br>
+🌐 [Website (WIP)](<"https://farischaudhry.github.io">). 
 
 ## ✨ Preferred Languages
 
