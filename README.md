@@ -29,7 +29,7 @@
   <a href="https://stackoverflow.com/users/19837690/farischaudhry" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
   </a>
-  <a href="https://github.com/farischaudhry/farischaudhry/raw/main/resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white" height="35" alt="resume"  />
+  <a href="https://github.com/farischaudhry/farischaudhry/raw/a57b9b274c38f692423d296324fe3af0c392ced2/cv_faris_chaudhry.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white" height="35" alt="resume"  />
   </a>
 </div>
