@@ -26,7 +26,7 @@
   <a href="https://uk.linkedin.com/in/faris-chaudhry-147336214?trk=people-guest_people_search-card" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://github.com/farischaudhry/farischaudhry/raw/a57b9b274c38f692423d296324fe3af0c392ced2/cv_faris_chaudhry.pdf" target="_blank">
+  <a href="https://github.com/farischaudhry/farischaudhry/raw/main/cv_faris_chaudhry.pdf" target="_blank">
     <img src="https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white" height="35" alt="resume"  />
   </a>
   <a href="https://stackoverflow.com/users/19837690/farischaudhry" target="_blank">
