@@ -29,4 +29,7 @@
   <a href="https://github.com/farischaudhry/farischaudhry/raw/main/cv_faris_chaudhry.pdf" target="_blank">
     <img src="https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white" height="35" alt="resume"  />
   </a>
+  <a href="https://farischaudhry.medium.com">
+      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="35" alt="medium" />  
+  </a>
 </div>
